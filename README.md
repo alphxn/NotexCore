@@ -1,0 +1,2 @@
+# NotexCore
+Notex Practice Core
